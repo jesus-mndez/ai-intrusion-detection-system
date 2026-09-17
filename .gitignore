@@ -1,0 +1,23 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Modelos entrenados
+*.pkl
+
+# Datos grandes
+data/raw/
+
+# Variables de entorno
+.env
